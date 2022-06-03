@@ -1,0 +1,127 @@
+body{
+
+  background-color:white;
+
+}
+
+.main{
+
+  border:3px solid black;
+
+    width: 800px;
+
+  height: 100%;
+
+  margin-left: 400px
+
+}
+
+.lh{
+
+  color:#FACC2E;
+
+  background-color:#003147;
+
+  font-family:Times_New_Roman;
+
+  margin-left: 30px;
+
+}
+
+.tab{
+
+  border:2px solid black
+
+}
+
+.tab2{
+
+  border:1px solid black
+
+}
+
+pre{
+
+  font-size: 10;
+
+  font-family: Arial;
+
+}
+
+.left{
+
+  background-color: #003147;
+
+  height: 100%;
+
+  width: 250px;
+
+  float:left;
+
+}
+
+.right{
+
+  background-color: white;
+
+  height: 100%;
+
+  width: 500px;
+
+  float:right;
+
+}
+
+.pfp{
+
+  width: 250px;
+
+  height: 245px;
+
+}
+
+.rh{
+
+  color:black;
+
+  background-color:#FACC2E;
+
+  font-family:Times_New_Roman;
+
+  text-align: center;
+
+}
+
+.emj{
+
+  color:lightyellow;
+
+}
+
+span{
+
+  color:white
+
+}
+
+.li{
+
+  color:white;
+
+  font-family:Arial;
+
+}
+
+.dot{
+
+  color:yellow;
+
+}
+
+.black{
+
+  color:black;
+
+}
+
+ 
